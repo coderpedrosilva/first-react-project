@@ -18,7 +18,7 @@ Baseado nas aulas da escola DevSuperior foi desenvolvido uma interface dinâmica
 
 ### Passos do projeto
 
-- Fazer a instalação e configuração de React e Bootstrap
+- Fazer a instalação de React
 - Criar a estrututura da interface utilizando HTML e Bootstrap 
 - Trabalhar com a API do Github
 - Programar utilizando recursos para renderizar a interface
