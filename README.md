@@ -2,7 +2,7 @@
 
 ### Visão geral do projeto
 
-Baseado nas aulas da escola DevSuperior foi desenvolvido uma interface para busca de usuários no Github utilizando os seguintes recursos:
+Baseado nas aulas da escola DevSuperior foi desenvolvido uma interface dinâmica para busca de usuários no Github utilizando os seguintes recursos:
 
 - React
 - Bootstrap
