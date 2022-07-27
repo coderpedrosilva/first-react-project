@@ -1,4 +1,4 @@
-# first-project-react
+# first-react-project
 
 ### Visão geral do projeto
 
